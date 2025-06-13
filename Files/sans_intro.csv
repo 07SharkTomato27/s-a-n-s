@@ -1171,4 +1171,10 @@
 0,GasterBlaster,2,640,480,379,446,270,0.333,0.266660	GasterBlaster	0	300	0	490	80	90	0.5	0.7
 0,SansText,nande . . .,,,,,,,
 0,SansText,nandeikitenda?,,,,,,,
-0	EndAttack
+0,SansText,. . .,,,,,,,
+0,SansText,   ?,,,,,,,
+0,SansText,nanda?,,,,,,,
+0,SansText,!?,,,,,,,
+0,SansText,oi masaka,,,,,,,
+0,SansText,yamero!!,,,,,,,
+0,EndAttack,,,,,,,,
