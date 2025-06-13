@@ -1085,15 +1085,14 @@
 0	GasterBlaster	0	300	0	450	80	90	0.5	0.7
 0	GasterBlaster	0	300	0	470	80	90	0.5	0.7
 0	GasterBlaster	0	300	0	490	80	90	0.5	0.7
-0	CombatZoneResizeInstant	250	250	400	400
+0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartTeleport,320,304,,,,,,
 0	HeartMode	0			
 0	GetHeartPos	0	0		
-0	HeartTeleport	323	329		
 0,SansText, . . .,,,,,,,
 0,SansText,kusottare,,,,,,,
 0,SansText,orenomakeda,,,,,,,
 2.3	Sanshead	Wink													
-0	BoneStab	1	50	0	0.3			
 0,SansText,orenokorosundaro?,,,,,,,
 0	SansTorso	Shrug							
 0	SansAnimation	Idle							
