@@ -1143,49 +1143,32 @@
 0,SansText,kusottare,,,,,,,
 0,SansText,orenomakeda,,,,,,,
 2.3	Sanshead	Wink													
-0,SansText,orenokorosundaro?,,,,,,,
-0.1	BlackScreen	1							
-0	Sound	PlayerFight	
-1.6	Sound	PlayerFight	
-1.2	Sound	PlayerFight	
-0.9	Sound	PlayerFight	
-0.3	Sound	PlayerFight	
-0.3	Sound	PlayerFight	
-0.3	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0.1	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0	Sound	PlayerFight	
-0.4	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-0	Sound	PlayerFight	0.5
-10	EndAttack	
-10	EndAttack	
+0,SansText,orewokorosundaro?,,,,,,,
+0.1	BlackScreen	1				
+5.0,Sound,Flash,,,,,,,
+0,SansText,imanohausoda,,,,,,,
+0,SansText,gokaisuruna baka,,,,,,,
+0,SansText,omaenomakeda,,,,,,,
+0,BoneStab,0,20,1,0.2
+0.1,BoneStab,1,20,1,0.2
+0.1,BoneStab,2,20,0.8,0.2
+0.1,BoneStab,3,20,0.7,0.2
+0.1,BoneStab,1,20,0.7,0.2
+0.1,BoneStab,2,20,0.8,0.2
+0.1,BoneStab,3,20,0.7,0.2
+0.1,BoneStab,0,20,0.8,0.2 
+0.1,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0.1,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0,GasterBlaster,2,640,0,449,176,135,0.333,0.26666
+0,GasterBlaster,2,640,480,449,436,225,0.333,0.26666
+0,GasterBlaster,2,0,480,189,436,315,0.333,0.26666
+0.1,GasterBlaster,2,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,2,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,2,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,2,640,480,379,446,270,0.333,0.26666
+0.1,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+0,GasterBlaster,2,640,480,379,446,270,0.333,0.266660	GasterBlaster	0	300	0	490	80	90	0.5	0.7
+0,SansText,nande . . .,,,,,,,
+0,SansText,nandeikitenda?,,,,,,,
+0	EndAttack
