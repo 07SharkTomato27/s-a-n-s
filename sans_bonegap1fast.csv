@@ -4,6 +4,10 @@
 0,TLPause,,,,,,,
 0.4,BoneVRepeat,128,257,95,0,210,8,133
 0,BoneVRepeat,128,366,20,0,210,8,133
+0.4,BoneVRepeat,128,257,95,0,210,8,133
+0,BoneVRepeat,128,366,20,0,210,8,133
 0,BoneVRepeat,503,257,95,2,210,8,133
+0.4,BoneVRepeat,128,257,95,0,210,8,133
+0,BoneVRepeat,128,366,20,0,210,8,133
 0,BoneVRepeat,503,366,20,2,210,8,133
 6,EndAttack,,,,,,,
