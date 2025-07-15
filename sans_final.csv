@@ -36,7 +36,7 @@
 0.2,HeartMaxFallSpeed,800,,,,,,,
 0,SansSlam,0,,,,,,,
 0,CombatZoneResizeInstant,241,226,449,391,,,,
-0,CombatZoneSpeed,900,,,,,,,
+0,CombatZoneSpeed,450,,,,,,,
 0,CombatZoneResize,241,226,650,391,,,,
 0.33333,HeartMaxFallSpeed,-300,,,,,,,
 0,SansAnimation,Idle,,,,,,,
