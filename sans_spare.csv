@@ -2,7 +2,8 @@
 0,HeartTeleport,320,376,,,
 0,HeartMode,1,,,,
 0,TLPause,,,,,
-0,SineBones,30,15,350,$xi,
+0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,8
+1,SineBones,30,15,350,$xi,
 0.1,SineBones,30,-15,350,$xi,
 0,SineBones,30,15,350,$xi,
 0.1,SineBones,30,-15,350,$xi,
@@ -12,4 +13,4 @@
 0.1,SineBones,30,-15,350,$xi,
 0,SineBones,30,15,350,$xi,
 0.1,SineBones,30,-15,350,$xi,
-0.3,EndAttack,,,,,
+3.3,EndAttack,,,,,
