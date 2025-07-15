@@ -60,4 +60,6 @@
 0,ADD,Total,$Total,25,,
 0,JMPABS,Begin,,,,
 0,:End,,,,,
+0,SansText,???,,,,,,,
+0,SansText,AAAAAAAAAAAAAAAAAAA,,,,,,,
 7,EndAttack,,,,,
