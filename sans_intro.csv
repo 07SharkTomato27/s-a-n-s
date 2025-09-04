@@ -24,6 +24,30 @@
 0.4,Sound,GasterBlaster,1.4,,,,,,
 0.4,SineBones,20,-24,360,25,,,,
 1.1,SansAnimation,,,,,,,,
+0,Platform,15,346,61,0,120,,
+0.4,BoneVRepeat,133,356,40,0,120,41,15
+0,BoneVRepeat,123,356,40,0,120,41,15
+0,BoneVRepeat,113,356,40,0,120,41,15
+0,BoneVRepeat,103,356,40,0,120,41,15
+1.2,Platform,-61,346,61,0,150,,
+1.7,Platform,-61,346,61,0,180,,
+1,BoneV,133,257,45,0,210,,
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
 0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
@@ -42,3 +66,4 @@
 0,SansText,huh.,,,,,,,
 0,SansText,always wondered why people never use their strongest attack first.,,,,,,,
 0,EndAttack,,,,,,,,
+
