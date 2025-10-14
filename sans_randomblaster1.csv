@@ -1,3 +1,4 @@
+0,CombatZoneSpeed,2
 0,CombatZoneResize,121,186,526,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,0,,,,,,,
@@ -27,4 +28,7 @@
 0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.46666,0
 0.26666,JMPNZ,6,$Loop,,,,,,
+2,TLPause
+2,CombatZoneResize,200,10,5,200,TLResume,,,
 0,EndAttack,,,,,,,,
+
